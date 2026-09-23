@@ -1,75 +1,87 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 
-<h3 align="center">MERN Stack Developer | BCA Graduate | Passionate Web Developer</h3>
+<h3 align="center">
+  MCA Student | Full Stack Developer | Java & DSA Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Open+to+Software+Developer+Roles" />
+  <a href="https://github.com/Ravi-agrahari1100">
+    <img src="https://komarev.com/ghpvc/?username=Ravi-agrahari1100&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=700&lines=MCA+Student;Full+Stack+Developer;Java+%7C+DSA+Learner;MERN+Stack+Developer;Building+Projects+%26+Learning+Every+Day" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 BCA Graduate
-- 💻 MERN Stack Developer
-- 🌱 Learning Advanced React & Backend Development
-- 🔥 Passionate About Web Development
-- 🎯 Goal: Software Developer
+🎓 **MCA Student** passionate about software development and technology.
+
+💻 Interested in **Full Stack Web Development** and building real-world applications.
+
+☕ Currently learning **Java + Data Structures & Algorithms**.
+
+🌐 Experienced with the **MERN Stack** and modern web technologies.
+
+🚀 I enjoy turning ideas into functional and user-friendly applications.
+
+🎯 **Career Goal:** Become a skilled Software Developer and build scalable real-world solutions.
+
+📚 Currently focusing on:
+- Java
+- Data Structures & Algorithms
+- React.js
+- Node.js
+- Backend Development
+- Problem Solving
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,c,php" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" />
+</p>
+
+### 🧰 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ravi-agrahari1100&show_icons=true&theme=tokyonight" />
-</p>
+```text
+Java
+ ├── OOP
+ ├── Collections
+ ├── Exception Handling
+ └── Advanced Java
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-agrahari1100&layout=compact&theme=tokyonight" />
-</p>
+Data Structures & Algorithms
+ ├── Arrays
+ ├── Strings
+ ├── Linked List
+ ├── Stack & Queue
+ ├── Trees
+ ├── Graphs
+ └── Dynamic Programming
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Ravi-agrahari1100&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI Interviewer Platform
-- AI-based mock interview system
-- React + Node.js + MongoDB
-
-### 🎓 Student Management System
-- Student record management
-- HTML, CSS, JavaScript, PHP, MySQL
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/ravi-kumar-4364972b7">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/Ravi-agrahari1100">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+Full Stack Development
+ ├── React.js
+ ├── Node.js
+ ├── Express.js
+ └── MongoDB
